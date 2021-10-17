@@ -28,16 +28,14 @@ namespace W2L8
                     a = b - a;
                 }
 
-                Console.WriteLine("Second exercise completed. Press any key to continue...");
-
+                Console.WriteLine("Third exercise completed. Press any key to continue...");
                 Console.ReadKey();
 
             }
             else
             {
-                Console.WriteLine("Invalid input datas. Please enter some number...");
+                Console.WriteLine("Invalid input data. Please enter some numbers...");
                 Console.ReadKey();
-
             }
 
 

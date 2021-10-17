@@ -18,7 +18,7 @@ namespace W2L8
                 Console.Write($"{number} ");
             }
             while (number < 1000);
-
+            Console.WriteLine();
             Console.WriteLine("Second exercise completed. Press any key to continue...");
 
             Console.ReadKey();
